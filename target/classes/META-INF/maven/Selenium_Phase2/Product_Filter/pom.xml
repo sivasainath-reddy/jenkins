@@ -5,6 +5,23 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <dependencies>
+  
+  <dependency>
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-java</artifactId>
+        <version>3.141.59</version>
+    </dependency>
+    <dependency>
+        <groupId>io.cucumber</groupId>
+        <artifactId>cucumber-java</artifactId>
+        <version>6.10.4</version>
+    </dependency>
+    <dependency>
+        <groupId>io.cucumber</groupId>
+        <artifactId>cucumber-junit</artifactId>
+        <version>6.10.4</version>
+    </dependency>
+  
      <!-- Cucumber dependencies -->
         <dependency>
             <groupId>io.cucumber</groupId>
@@ -28,11 +45,6 @@
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
             <version>4.29.0</version>
-        </dependency>
-        <dependency>
-        	<groupId>Selenium_Phase2</groupId>
-        	<artifactId>Adactin_Cucumber</artifactId>
-        	<version>0.0.1-SNAPSHOT</version>
         </dependency>
    </dependencies>
 

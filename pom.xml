@@ -46,11 +46,6 @@
             <artifactId>selenium-java</artifactId>
             <version>4.29.0</version>
         </dependency>
-        <dependency>
-        	<groupId>Selenium_Phase2</groupId>
-        	<artifactId>Adactin_Cucumber</artifactId>
-        	<version>0.0.1-SNAPSHOT</version>
-        </dependency>
    </dependencies>
 
   
